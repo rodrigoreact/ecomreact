@@ -11,8 +11,7 @@ Catálogo de Productos: Los usuarios pueden explorar una variada selección de p
 
 Filtrado y Búsqueda: Los usuarios pueden utilizar funciones de búsqueda y filtrado para encontrar rápidamente productos específicos o dentro de una categoría determinada.
 
-Carrito de Compras: Los usuarios pueden agregar productos al carrito de compras, donde pueden ver un resumen de los artículos seleccionados, la cantidad y el total de la compra.
-Para poder agregar productos hay que estar logueado. Se puede usar esa cuenta ficticia.
+Carrito de Compras: Los usuarios pueden agregar productos al carrito de compras, donde pueden ver un resumen de los artículos seleccionados, la cantidad y el total de la compra. Para poder agregar productos hay que estar logueado. Se puede usar esa cuenta ficticia.
 
 Gestión del Carrito: Los usuarios pueden modificar las cantidades de los productos en el carrito, eliminar productos o vaciar completamente el carrito antes de proceder al proceso de pago.
 
