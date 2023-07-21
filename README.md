@@ -24,4 +24,6 @@ Para guardar los datos se usa la siguiente api: https://e-commerce-api-v2.academ
 
 Por supuesto que existen diversos endpoint para realizar diversas operaciones sobre los productos.
 
-Puede clonar el repositorio git clone https://github.com/tu-usuario/ecommerce-react.git
+Puede clonar el repositorio haciendo git clone git@github.com:rodrigoreact/ecomreact.git
+
+Gracias.
